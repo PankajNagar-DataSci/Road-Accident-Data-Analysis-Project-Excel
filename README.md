@@ -9,6 +9,7 @@ Here’s a step-by-step overview of the project:
 1. Data Collection and Cleaning:
    - Gathered raw data from online sources.
    - Cleaned and processed the data, handling missing values and inconsistencies to make it ready for analysis.
+   - The original dataset was quite large, so I streamlined it for convenience and relevance to my analysis.
 
 2. Data Analysis:
    - Extracted monthly trends to understand accident patterns over time.
