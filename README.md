@@ -30,6 +30,7 @@ The project is named "Road Accident Dashboard" and offers valuable insights into
 - 📊 Key Performance Indicators (KPIs) for critical metrics
 - 📊 Donut charts offering clear visual summaries
 - 📊 Detailed data analysis uncovering key insights
+- 🔗 Hyperlinks used effectively within the dashboard for easy navigation and reference
 
 
 I’d love to hear your thoughts and feedback on this project. Let's connect to discuss how these insights can help improve road safety and inform better decision-making.
