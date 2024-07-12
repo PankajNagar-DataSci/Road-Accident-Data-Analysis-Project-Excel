@@ -22,6 +22,15 @@ Here’s a step-by-step overview of the project:
 
 The project is named "Road Accident Dashboard" and offers valuable insights into road accident patterns and trends.
 
+✨ Key features include:
+
+📊 Monthly trend analysis for understanding accident patterns over time
+📊 Graphs depicting accidents by different road types
+📊 Tree map visualization for hierarchical data representation
+📊 Key Performance Indicators (KPIs) for critical metrics
+📊 Donut charts offering clear visual summaries
+📊 Detailed data analysis uncovering key insights
+
 
 I’d love to hear your thoughts and feedback on this project. Let's connect to discuss how these insights can help improve road safety and inform better decision-making.
 
